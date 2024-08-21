@@ -7,7 +7,7 @@ QAA
 * 🌍  I'm based in Cluj-Napoca
 * ✉️  You can contact me at [adrian.ciuciui.cornel@gmail.com](mailto:adrian.ciuciui.cornel@gmail.com)
 * 🧠  I'm learning Playwright
-* 🧠  I've written  articles on the QA mindset, you can check them on [Medium](https://medium.com/@ciuciuiadrian) (retry opening the link if it doesn't work first time, it's a bug 🐛 )
+* ☀️  I've written  articles on the QA mindset, you can check them on [Medium](https://medium.com/@ciuciuiadrian) (retry opening the link if it doesn't work first time, it's a bug 🐛 )
 * ⚡  Basketball, playing the guitar, watching a good movie, gaming or table tennis - anything is possible, let's just enjoy it and have fun doing it
 
 
