@@ -4,6 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QAA
 ---
 
+
+* 🌍  I'm based in Cluj-Napoca
+
+<a href="https://www.github.com/AdrianCiuciui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AdrianCiuciui?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 ### Skills 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
