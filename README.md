@@ -4,11 +4,11 @@ Hello there![](https://user-images.githubusercontent.com/18350557/176309783-0785
 QAA
 ---
 
-* 🌍  I'm based in Cluj-Napoca
-* ✉️  You can contact me at [adrian.ciuciui.cornel@gmail.com](mailto:adrian.ciuciui.cornel@gmail.com)
-* 🧠  I'm learning Playwright
+* 🌍  I'm based in Cluj-Napoca
+* ✉️  You can contact me at [adrian.ciuciui.cornel@gmail.com](mailto:adrian.ciuciui.cornel@gmail.com)
+* 🧠  I'm learning Playwright
 * 🧠  I've written some articles on the QA mindset, you can check them on Medium
-* ⚡  Basketball, playing the guitar, watching a good movie, gaming or table tennis - anything is possible, let's just enjoy it and have fun doing it
+* ⚡  Basketball, playing the guitar, watching a good movie, gaming or table tennis - anything is possible, let's just enjoy it and have fun doing it
 
 
 ### Skills
