@@ -40,19 +40,19 @@ QAA
 
 <p align="left"> 
 <a href="https://github.com/AdrianCiuciui">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCiuciui&langs_count=10&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCiuciui&langs_count=10&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/AdrianCiuciui">
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianCiuciui&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="AdrianCiuciui's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianCiuciui&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&show_icons=true" alt="AdrianCiuciui's GitHub stats" /></a>
 
 <a href="http://www.github.com/AdrianCiuciui">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianCiuciui&stroke=ffffff&background=365314&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianCiuciui&stroke=ffffff&background=14532d&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=134e4a&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=134e4a&hide_border=true&locale=en" /></a></div>
+  <a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a></div>
   
 <br /><br /><br /><br /><br /><br /><br />
