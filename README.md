@@ -7,7 +7,7 @@ QAA
 * 🌍  I'm based in Cluj-Napoca
 * ✉️  You can contact me at [adrian.ciuciui.cornel@gmail.com](mailto:adrian.ciuciui.cornel@gmail.com)
 * 🧠  I'm learning Playwright
-* ⚡  Basketball, playing my guitar, watching a good movie or gaming - anything is possible
+* ⚡  Basketball, playing the guitar, watching a good movie, gaming or table tennis - anything is possible, let's just enjoy it and have fun doing it
 
 ### Skills
 
