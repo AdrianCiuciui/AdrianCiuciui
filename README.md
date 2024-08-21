@@ -46,7 +46,7 @@ QAA
 <img src="https://github-readme-stats.vercel.app/api?username=AdrianCiuciui&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&show_icons=true" alt="AdrianCiuciui's GitHub stats" /></a>
 
 <a href="http://www.github.com/AdrianCiuciui">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianCiuciui&stroke=ffffff&background=14532d&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianCiuciui&stroke=ffffff&background=14532d&ring=7f1d1d&fire=7f1d1d&currStreakNum=7f1d1d&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <b>Top Repositories</b>
