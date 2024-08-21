@@ -52,7 +52,9 @@ QAA
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a></div>
+  <a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=000000&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a></div>
   
 <br /><br /><br /><br /><br /><br /><br />
