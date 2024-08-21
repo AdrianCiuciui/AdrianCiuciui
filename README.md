@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 happy to have you here, reading my profile 🌞
 
 <!--
 **AdrianCiuciui/AdrianCiuciui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- 🔭 I’m currently interested in anything related to Playwright.
+- 💬 Ask me about qa mindset or anything related to qa, manual or automated
 
 
 <b>My GitHub Stats</b>
