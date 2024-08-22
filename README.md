@@ -55,5 +55,4 @@ QAA
 <div width="100%" align="center"><a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-Thank you, https://www.profileme.dev and https://github.com/danielcranney
-
+Thank you, https://www.profileme.dev and https://github.com/danielcranney for help with this Readme. 🌟
