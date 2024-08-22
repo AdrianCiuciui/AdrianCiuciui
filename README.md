@@ -2,7 +2,7 @@ Hello there![](https://user-images.githubusercontent.com/18350557/176309783-0785
 ======================================================================================================================================
 
 QAA
------
+---
 
 * 🌍  I'm based in Cluj-Napoca
 * ✉️  You can contact me at [adrian.ciuciui.cornel@gmail.com](mailto:adrian.ciuciui.cornel@gmail.com)
