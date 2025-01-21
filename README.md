@@ -46,8 +46,6 @@ QAA
 
 <a href="http://www.github.com/AdrianCiuciui"><img src="https://github-readme-stats.vercel.app/api?username=AdrianCiuciui&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="AdrianCiuciui's GitHub stats" /></a>
 
-<a href="http://www.github.com/AdrianCiuciui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianCiuciui&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/AdrianCiuciui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCiuciui&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </p>
