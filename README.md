@@ -8,7 +8,7 @@ QAA
 * ✉️  You can contact me at [adrian.ciuciui.cornel@gmail.com](mailto:adrian.ciuciui.cornel@gmail.com)
 * 💪  I'm currently working in Selenium
 * 🧠  I'm learning Playwright
-* ☀️  I've written  articles on the QA mindset, you can check them on [Medium](https://medium.com/@ciuciuiadrian)
+* ☀️  I've written  articles on the QA mindset, you can check them out on [Medium](https://medium.com/@ciuciuiadrian)
 * ⚡  Basketball, playing the guitar, watching a good movie, gaming or table tennis - anything is possible, let's just enjoy it and have fun doing it
 
 
