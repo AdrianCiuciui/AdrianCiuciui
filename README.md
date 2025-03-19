@@ -44,16 +44,16 @@ QAA
 <b>My GitHub Stats</b>
 
 <p align="left"> 
-
 <a href="http://www.github.com/AdrianCiuciui"><img src="https://github-readme-stats.vercel.app/api?username=AdrianCiuciui&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="AdrianCiuciui's GitHub stats" /></a>
 
 <a href="https://github.com/AdrianCiuciui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCiuciui&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </p>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/AdrianCiuciui/Selenium-Java-Maven-TestNG-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Selenium-Java-Maven-TestNG-Project&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en"/></a>
+  <a href="https://github.com/AdrianCiuciui/Playwright-Typescript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianCiuciui&repo=Playwright-Typescript&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en"/></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 Thank you, https://www.profileme.dev and https://github.com/danielcranney for help with this Readme. 🌟 
